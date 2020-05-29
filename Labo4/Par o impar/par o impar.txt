@@ -1,0 +1,22 @@
+# include  < iostream >
+# include  < cmath >
+using namespace std;
+int  main (void)
+{
+    int a;
+    int b;
+    cout << " VERIFICADOR SI UN NUMERO ES PAR O IMPAR. " << endl << endl;
+    cout << " Ingrese el numero entero que desea saber si es par o impar: " << endl;
+    cin >> a;
+    cout << endl;
+    b = (a% 2 ); 
+    if (b == 0 ) 
+    {
+        cout << " El numero " << a << " es PAR. " ;
+    }
+    else
+    {
+        cout << " El numero " << a << " es IMPAR. " ;
+    }
+    return ( 0 );
+}
