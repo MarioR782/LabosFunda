@@ -17,7 +17,7 @@ int main(void){
     int numeroDeArticulos;
     float costoTotal;
     costoPorArticulo cantidadArticulos[100];
-    cout<<"FACTURA DE COMPRA EN TIENDA 'BUEN DIA'." <<endl <<endl;
+    cout<<"FACTURA DE COMPRA EN TIENDA:" <<endl <<endl;
     cout<<"Ingrese la cantidad de diferentes tipos de articulos que desea facturar:"<<endl;
     cin>>numeroDeArticulos;
     while(numeroDeArticulos<1||numeroDeArticulos>100){/*Con While se asegura que el 
