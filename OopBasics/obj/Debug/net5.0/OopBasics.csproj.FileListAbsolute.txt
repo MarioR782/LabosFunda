@@ -1,0 +1,16 @@
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\OopBasics.exe
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\OopBasics.deps.json
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\OopBasics.runtimeconfig.json
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\OopBasics.runtimeconfig.dev.json
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\OopBasics.dll
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\ref\OopBasics.dll
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\bin\Debug\net5.0\OopBasics.pdb
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.csprojAssemblyReference.cache
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.AssemblyInfoInputs.cache
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.AssemblyInfo.cs
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.csproj.CoreCompileInputs.cache
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.dll
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\ref\OopBasics.dll
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.pdb
+C:\Users\DARWIN\Desktop\PROGRAMACION\1.POO\Lab.02\OopBasics\obj\Debug\net5.0\OopBasics.genruntimeconfig.cache
